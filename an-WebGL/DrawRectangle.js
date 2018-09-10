@@ -1,5 +1,4 @@
-﻿
-function main() {
+﻿function main() {
     var canvas = document.getElementById('example');
     if (!canvas) {
         console.log("missing canvas object");
