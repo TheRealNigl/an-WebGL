@@ -1,6 +1,7 @@
 ﻿var VSHADER_SOURCE =
+    'attribute vec4 a_Position;\n' +
     'void main() {\n' +
-    '   gl_Position = vec4(0.0, 0.0, 0.0, 1.0);\n' +
+    '   gl_Position = a_Position;\n' +
     '   gl_PointSize = 10.0; \n' +
     '}\n';
 
@@ -23,6 +24,14 @@ function main() {
         console.log('failed to load shaders');
         return;
     }
+
+    var a_Position = gl.getAttribLocation(gl.program, 'a_Position');
+    if (a_Position < 0) {
+        console.log('Failed to get storage location of a_Position');
+        return;
+    }
+
+    gl.vertexAttrib3f(a_Position, 0.0, 0.0, 0.0);
 
     gl.clearColor(0.0, 0.0, 0.0, 1.0);
 
