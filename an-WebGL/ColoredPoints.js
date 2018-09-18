@@ -11,7 +11,7 @@ var FSHADER_SOURCE =
     '}\n';
 
 function main() {
-    var canvas = document.getElementById('ClickedPoints');
+    var canvas = document.getElementById('ColoredPoints');
 
     var gl = getWebGLContext(canvas);
 
@@ -26,13 +26,14 @@ function main() {
     }
 
     var a_Position = gl.getAttribLocation(gl.program, 'a_Position');
-
-    canvas.onmousedown = function (ev) { click(ev, gl, canvas, a_Position); };
-
     if (a_Position < 0) {
         console.log('Failed to get storage location of a_Position');
         return;
     }
+
+    canvas.onmousedown = function (ev) { click(ev, gl, canvas, a_Position); };
+
+    
     
     gl.clearColor(0.0, 0.0, 0.0, 1.0);
 
@@ -55,7 +56,7 @@ function click(ev, gl, canvas, a_Position) {
 
     var len = g_points.length;
 
-    for (var i = 0; i < len; i+=2) {
+    for (var i = 0; i < len; i += 2) {
         gl.vertexAttrib3f(a_Position, g_points[i], g_points[i + 1], 0.0);
 
         gl.drawArrays(gl.POINTS, 0, 1);

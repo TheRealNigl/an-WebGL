@@ -1,5 +1,5 @@
 ﻿function main() {
-    var canvas = document.getElementById('example');
+    var canvas = document.getElementById('DrawRectangle');
     if (!canvas) {
         console.log("missing canvas object");
         return;

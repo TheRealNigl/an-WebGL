@@ -1,5 +1,5 @@
 ﻿function main() {
-    var canvas = document.getElementById('canvas');
+    var canvas = document.getElementById('HelloCanvas');
 
     var gl = getWebGLContext(canvas);
 

@@ -11,7 +11,7 @@ var FSHADER_SOURCE =
     '}\n';
 
 function main() {
-    var canvas = document.getElementById('webgl');
+    var canvas = document.getElementById('HelloPoint2');
 
     var gl = getWebGLContext(canvas);
 
