@@ -527,6 +527,195 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TranslatedRotatedTriangle",
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangle", "ColoredTriangle\", "{CF6D9CD4-2574-4292-9D35-BCE6092B21A9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50486"
+		Debug.AspNetCompiler.PhysicalPath = "ColoredTriangle\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50486\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50486"
+		Release.AspNetCompiler.PhysicalPath = "ColoredTriangle\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50486\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50486"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTriangle_FragCoord", "HelloTriangle_FragCoord\", "{5ADBB402-3CE6-4339-99C3-7FF7ADC906D9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50523"
+		Debug.AspNetCompiler.PhysicalPath = "HelloTriangle_FragCoord\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50523\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50523"
+		Release.AspNetCompiler.PhysicalPath = "HelloTriangle_FragCoord\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50523\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50523"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeColor", "MultiAttributeColor\", "{2E9A0AC3-CCBB-4FB5-BFB8-9C3ACD295D54}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49417"
+		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeColor\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49417\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49417"
+		Release.AspNetCompiler.PhysicalPath = "MultiAttributeColor\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49417\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49417"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize", "MultiAttributeSize\", "{C8E13F7C-B8D0-470D-9D55-A3068D09284B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49433"
+		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeSize\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49433\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49433"
+		Release.AspNetCompiler.PhysicalPath = "MultiAttributeSize\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49433\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49433"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize_Interleaved", "MultiAttributeSize_Interleaved\", "{4BC0883F-BDED-4640-AA16-CEF84DE9E51E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49449"
+		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeSize_Interleaved\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49449\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49449"
+		Release.AspNetCompiler.PhysicalPath = "MultiAttributeSize_Interleaved\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49449\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49449"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiTexture", "MultiTexture\", "{7C0DEC62-4A2B-405E-8C1B-FAF45001298F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49467"
+		Debug.AspNetCompiler.PhysicalPath = "MultiTexture\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49467\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49467"
+		Release.AspNetCompiler.PhysicalPath = "MultiTexture\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49467\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49467"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad", "TexturedQuad\", "{B93754D2-F8A9-4CF1-B444-3B7296620FFE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49484"
+		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49484\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49484"
+		Release.AspNetCompiler.PhysicalPath = "TexturedQuad\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49484\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49484"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad_Clamp_Mirror", "TexturedQuad_Clamp_Mirror\", "{120ED4BA-687D-49CB-A8B6-C7FF4DE00574}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49500"
+		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad_Clamp_Mirror\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49500\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49500"
+		Release.AspNetCompiler.PhysicalPath = "TexturedQuad_Clamp_Mirror\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49500\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49500"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad_Repeat", "TexturedQuad_Repeat\", "{BFCA5A10-13EE-4985-AEE2-10FB3078545F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49520"
+		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad_Repeat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49520\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49520"
+		Release.AspNetCompiler.PhysicalPath = "TexturedQuad_Repeat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49520\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49520"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -578,6 +767,24 @@ Global
 		{C282DA41-6753-4EBF-AE8B-69E30737D52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABEAE5F3-1329-43AB-83F7-7A19F1F30D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ABEAE5F3-1329-43AB-83F7-7A19F1F30D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6D9CD4-2574-4292-9D35-BCE6092B21A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6D9CD4-2574-4292-9D35-BCE6092B21A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADBB402-3CE6-4339-99C3-7FF7ADC906D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADBB402-3CE6-4339-99C3-7FF7ADC906D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9A0AC3-CCBB-4FB5-BFB8-9C3ACD295D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9A0AC3-CCBB-4FB5-BFB8-9C3ACD295D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E13F7C-B8D0-470D-9D55-A3068D09284B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E13F7C-B8D0-470D-9D55-A3068D09284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0883F-BDED-4640-AA16-CEF84DE9E51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0883F-BDED-4640-AA16-CEF84DE9E51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0DEC62-4A2B-405E-8C1B-FAF45001298F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0DEC62-4A2B-405E-8C1B-FAF45001298F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93754D2-F8A9-4CF1-B444-3B7296620FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93754D2-F8A9-4CF1-B444-3B7296620FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120ED4BA-687D-49CB-A8B6-C7FF4DE00574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120ED4BA-687D-49CB-A8B6-C7FF4DE00574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCA5A10-13EE-4985-AEE2-10FB3078545F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCA5A10-13EE-4985-AEE2-10FB3078545F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -606,6 +813,15 @@ Global
 		{A6CC825A-A9BC-4BD0-969B-48246830D92F} = {3BD2F39E-BBFC-4C6A-8AD4-1339D1843362}
 		{C282DA41-6753-4EBF-AE8B-69E30737D52D} = {3BD2F39E-BBFC-4C6A-8AD4-1339D1843362}
 		{ABEAE5F3-1329-43AB-83F7-7A19F1F30D28} = {3BD2F39E-BBFC-4C6A-8AD4-1339D1843362}
+		{CF6D9CD4-2574-4292-9D35-BCE6092B21A9} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{5ADBB402-3CE6-4339-99C3-7FF7ADC906D9} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{2E9A0AC3-CCBB-4FB5-BFB8-9C3ACD295D54} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{C8E13F7C-B8D0-470D-9D55-A3068D09284B} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{4BC0883F-BDED-4640-AA16-CEF84DE9E51E} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{7C0DEC62-4A2B-405E-8C1B-FAF45001298F} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{B93754D2-F8A9-4CF1-B444-3B7296620FFE} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{120ED4BA-687D-49CB-A8B6-C7FF4DE00574} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
+		{BFCA5A10-13EE-4985-AEE2-10FB3078545F} = {62AFBA7D-CC6B-4A19-83A3-7F397CB09B0B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92B4E953-95FD-47B3-9D55-1F282232BCDA}
