@@ -836,6 +836,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube", "ColoredCube\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54635"
+		SlnRelativePath = "ColoredCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -857,6 +858,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube_singleColor", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54667"
+		SlnRelativePath = "ColoredCube_singleColor\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -878,6 +880,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DepthBuffer", "DepthBuffer\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54696"
+		SlnRelativePath = "DepthBuffer\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -899,6 +902,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube", "HelloCube\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54725"
+		SlnRelativePath = "HelloCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -920,6 +924,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube_singleColor", "He
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54753"
+		SlnRelativePath = "HelloCube_singleColor\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -941,6 +946,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles", "L
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54787"
+		SlnRelativePath = "LookAtRotatedTriangles\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -962,6 +968,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles_mvMa
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54815"
+		SlnRelativePath = "LookAtRotatedTriangles_mvMatrix\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -983,6 +990,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTriangles", "LookAtTr
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54884"
+		SlnRelativePath = "LookAtTriangles\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1004,6 +1012,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54911"
+		SlnRelativePath = "LookAtTrianglesWithKeys\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1025,6 +1034,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys_Vie
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54966"
+		SlnRelativePath = "LookAtTrianglesWithKeys_ViewVolume\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1046,6 +1056,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView", "OrthoView\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54997"
+		SlnRelativePath = "OrthoView\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1067,6 +1078,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfSize", "Ortho
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55024"
+		SlnRelativePath = "OrthoView_halfSize\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1088,6 +1100,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfWidth", "Orth
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55050"
+		SlnRelativePath = "OrthoView_halfWidth\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1109,6 +1122,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView", "Perspect
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55066"
+		SlnRelativePath = "PerspectiveView\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1130,6 +1144,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvp", "Pers
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55127"
+		SlnRelativePath = "PerspectiveView_mvp\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1151,6 +1166,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvpMatrix",
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55156"
+		SlnRelativePath = "PerspectiveView_mvpMatrix\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1172,6 +1188,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Zfighting", "Zfighting\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55207"
+		SlnRelativePath = "Zfighting\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1193,6 +1210,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube", "LightedCube\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55459"
+		SlnRelativePath = "LightedCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1214,6 +1232,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_ambient", "Ligh
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55497"
+		SlnRelativePath = "LightedCube_ambient\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1235,6 +1254,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_animation", "Li
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55527"
+		SlnRelativePath = "LightedCube_animation\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1256,6 +1276,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_perFragment", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55561"
+		SlnRelativePath = "LightedCube_perFragment\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1277,6 +1298,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedTranslatedRotatedCub
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55595"
+		SlnRelativePath = "LightedTranslatedRotatedCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1298,6 +1320,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube", "PointLi
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55624"
+		SlnRelativePath = "PointLightedCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1319,6 +1342,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_animation"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55649"
+		SlnRelativePath = "PointLightedCube_animation\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1340,6 +1364,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_perFragmen
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55721"
+		SlnRelativePath = "PointLightedCube_perFragment\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1361,6 +1386,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere", "Point
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55751"
+		SlnRelativePath = "PointLightedSphere\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1382,6 +1408,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere_perFragm
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55778"
+		SlnRelativePath = "PointLightedSphere_perFragment\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1403,6 +1430,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JointModel", "JointModel\",
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62579"
+		SlnRelativePath = "JointModel\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1424,6 +1452,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel", "MultiJoi
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62609"
+		SlnRelativePath = "MultiJointModel\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1445,6 +1474,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel_segment", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62646"
+		SlnRelativePath = "MultiJointModel_segment\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1466,6 +1496,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3DoverWeb", "3DoverWeb\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62888"
+		SlnRelativePath = "3DoverWeb\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1487,6 +1518,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BlendedCube", "BlendedCube\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62919"
+		SlnRelativePath = "BlendedCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1508,6 +1540,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog", "Fog\", "{91021B30-73
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63007"
+		SlnRelativePath = "Fog\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1529,6 +1562,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FramebufferObject", "Frameb
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63040"
+		SlnRelativePath = "FramebufferObject\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1550,6 +1584,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HUD", "HUD\", "{76916814-9E
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63066"
+		SlnRelativePath = "HUD\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1571,6 +1606,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtBlendedTriangles", "L
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63155"
+		SlnRelativePath = "LookAtBlendedTriangles\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1592,6 +1628,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OBJViewer", "OBJViewer\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63184"
+		SlnRelativePath = "OBJViewer\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1613,6 +1650,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickFace", "PickFace\", "{F
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63213"
+		SlnRelativePath = "PickFace\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1634,6 +1672,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Picking", "Picking\", "{76D
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63246"
+		SlnRelativePath = "Picking\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1655,6 +1694,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickObject", "PickObject\",
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63279"
+		SlnRelativePath = "PickObject\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1676,6 +1716,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProgramObject", "ProgramObj
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63336"
+		SlnRelativePath = "ProgramObject\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1697,6 +1738,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotateObject", "RotateObjec
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63374"
+		SlnRelativePath = "RotateObject\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1718,6 +1760,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle_contextLos
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63428"
+		SlnRelativePath = "RotatingTriangle_contextLost\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1739,6 +1782,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RoundedPoints", "RoundedPoi
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63444"
+		SlnRelativePath = "RoundedPoints\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1760,6 +1804,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow", "Shadow\", "{79D24
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63473"
+		SlnRelativePath = "Shadow\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1781,6 +1826,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp", "Shadow_high
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63541"
+		SlnRelativePath = "Shadow_highp\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1802,6 +1848,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp_sphere", "Shad
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63568"
+		SlnRelativePath = "Shadow_highp_sphere\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1823,6 +1870,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog_w", "Fog_w\", "{184B5E8
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63976"
+		SlnRelativePath = "Fog_w\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1844,6 +1892,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Particle", "Particle\", "{4
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64767"
+		SlnRelativePath = "Particle\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1865,6 +1914,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Printf", "Printf\", "{1D05F
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64802"
+		SlnRelativePath = "Printf\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1886,6 +1936,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SpecularCube", "SpecularCub
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64830"
+		SlnRelativePath = "SpecularCube\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1907,6 +1958,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TextTexture", "TextTexture\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64859"
+		SlnRelativePath = "TextTexture\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1928,6 +1980,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ThreeDUI", "ThreeDUI\", "{4
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64885"
+		SlnRelativePath = "ThreeDUI\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1949,6 +2002,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Wave", "Wave\", "{81C0B8B8-
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64915"
+		SlnRelativePath = "Wave\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -1970,6 +2024,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WorldCoordinate", "WorldCoo
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64944"
+		SlnRelativePath = "WorldCoordinate\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
