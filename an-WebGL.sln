@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ClickedPoints", "ClickedPoints\", "{9F67137D-CB6A-4D16-890A-B91A8E50E6FB}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1161"
 		Debug.AspNetCompiler.PhysicalPath = "ClickedPoints\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1161\"
@@ -43,13 +43,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredPoints", "ColoredPoi
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1171"
-		SlnRelativePath = "ColoredPoints\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DrawRectangle", "DrawRectangle\", "{800CBEA6-C44F-49EF-AF05-561AAA67F05D}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1190"
 		Debug.AspNetCompiler.PhysicalPath = "DrawRectangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1190\"
@@ -87,13 +86,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCanvas", "HelloCanvas\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1195"
-		SlnRelativePath = "HelloCanvas\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloPoint1", "HelloPoint1\", "{81F689DB-A4BA-419A-B4EE-FC40D092E24A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1198"
 		Debug.AspNetCompiler.PhysicalPath = "HelloPoint1\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1198\"
@@ -115,7 +113,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloPoint1", "HelloPoint1\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloPoint2", "HelloPoint2\", "{6B3D49A3-3C3C-4A45-8EA0-030E71F95E44}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1200"
 		Debug.AspNetCompiler.PhysicalPath = "HelloPoint2\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1200\"
@@ -156,7 +154,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapters10", "Chapters10", 
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloQuad", "HelloQuad\", "{448A5CDE-DF26-4C57-BA8D-9B69F6ACB5D2}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1325"
 		Debug.AspNetCompiler.PhysicalPath = "HelloQuad\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1325\"
@@ -178,7 +176,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloQuad", "HelloQuad\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloQuad_FAN", "HelloQuad_FAN\", "{696C2739-5313-4476-A011-4FC0FF5B15AA}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1326"
 		Debug.AspNetCompiler.PhysicalPath = "HelloQuad_FAN\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1326\"
@@ -200,7 +198,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloQuad_FAN", "HelloQuad_
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTriangle", "HelloTriangle\", "{838632B4-D60B-4A75-9F22-4E842BD50645}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1330"
 		Debug.AspNetCompiler.PhysicalPath = "HelloTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1330\"
@@ -222,7 +220,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTriangle", "HelloTrian
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINE_LOOP", "HelloTrianle_LINE_LOOP\", "{3C9E7411-8DB2-4E80-A54F-BBC52D4A8503}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1337"
 		Debug.AspNetCompiler.PhysicalPath = "HelloTrianle_LINE_LOOP\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1337\"
@@ -244,7 +242,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINE_LOOP", "H
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINE_STRIP", "HelloTrianle_LINE_STRIP\", "{BCD678CC-010C-4045-BFE3-C74804B0C30C}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1340"
 		Debug.AspNetCompiler.PhysicalPath = "HelloTrianle_LINE_STRIP\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1340\"
@@ -266,7 +264,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINE_STRIP", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINES", "HelloTrianle_LINES\", "{5B33D48E-8FC4-4ACF-9F78-3089C86589C7}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1343"
 		Debug.AspNetCompiler.PhysicalPath = "HelloTrianle_LINES\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1343\"
@@ -288,7 +286,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTrianle_LINES", "Hello
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiPoint", "MultiPoint\", "{D94B64BE-417D-4759-AD01-CE31B9EEC452}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1344"
 		Debug.AspNetCompiler.PhysicalPath = "MultiPoint\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1344\"
@@ -310,7 +308,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiPoint", "MultiPoint\",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle", "RotatedTriangle\", "{55577476-3705-488B-8CF8-CF686F234FDC}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1347"
 		Debug.AspNetCompiler.PhysicalPath = "RotatedTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1347\"
@@ -332,7 +330,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle", "RotatedT
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle_Matrix", "RotatedTriangle_Matrix\", "{69099A29-B6EF-4AD1-A774-AF0835433D30}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1348"
 		Debug.AspNetCompiler.PhysicalPath = "RotatedTriangle_Matrix\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1348\"
@@ -354,7 +352,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle_Matrix", "R
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ScaledTriangle_Matrix", "ScaledTriangle_Matrix\", "{B4B6F1AA-5B6A-4801-A41D-C1A3D6AE1B4B}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1352"
 		Debug.AspNetCompiler.PhysicalPath = "ScaledTriangle_Matrix\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1352\"
@@ -376,7 +374,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ScaledTriangle_Matrix", "Sc
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TranslatedTriangle", "TranslatedTriangle\", "{61D51B7D-7AB7-4091-9351-AB924D34C51D}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1353"
 		Debug.AspNetCompiler.PhysicalPath = "TranslatedTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1353\"
@@ -398,7 +396,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TranslatedTriangle", "Trans
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTranslatedTriangle", "RotatedTranslatedTriangle\", "{40D1529D-7167-4E31-96A4-CA15919C285B}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1387"
 		Debug.AspNetCompiler.PhysicalPath = "RotatedTranslatedTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1387\"
@@ -420,7 +418,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTranslatedTriangle",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle_Matrix4", "RotatedTriangle_Matrix4\", "{672E56EC-CB74-4168-A441-B323924603C8}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1391"
 		Debug.AspNetCompiler.PhysicalPath = "RotatedTriangle_Matrix4\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1391\"
@@ -442,7 +440,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatedTriangle_Matrix4", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTranslatedTriangle", "RotatingTranslatedTriangle\", "{A5CEEB5E-77F4-4540-83A4-BDC058C8FF8E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1392"
 		Debug.AspNetCompiler.PhysicalPath = "RotatingTranslatedTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1392\"
@@ -464,7 +462,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTranslatedTriangle"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle", "RotatingTriangle\", "{A6CC825A-A9BC-4BD0-969B-48246830D92F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1395"
 		Debug.AspNetCompiler.PhysicalPath = "RotatingTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1395\"
@@ -486,7 +484,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle", "Rotatin
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle_withButtons", "RotatingTriangle_withButtons\", "{C282DA41-6753-4EBF-AE8B-69E30737D52D}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1398"
 		Debug.AspNetCompiler.PhysicalPath = "RotatingTriangle_withButtons\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1398\"
@@ -508,7 +506,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle_withButton
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TranslatedRotatedTriangle", "TranslatedRotatedTriangle\", "{ABEAE5F3-1329-43AB-83F7-7A19F1F30D28}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1402"
 		Debug.AspNetCompiler.PhysicalPath = "TranslatedRotatedTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1402\"
@@ -530,7 +528,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TranslatedRotatedTriangle",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangle", "ColoredTriangle\", "{CF6D9CD4-2574-4292-9D35-BCE6092B21A9}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50486"
 		Debug.AspNetCompiler.PhysicalPath = "ColoredTriangle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50486\"
@@ -552,7 +550,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangle", "ColoredT
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTriangle_FragCoord", "HelloTriangle_FragCoord\", "{5ADBB402-3CE6-4339-99C3-7FF7ADC906D9}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50523"
 		Debug.AspNetCompiler.PhysicalPath = "HelloTriangle_FragCoord\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50523\"
@@ -574,7 +572,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloTriangle_FragCoord", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeColor", "MultiAttributeColor\", "{2E9A0AC3-CCBB-4FB5-BFB8-9C3ACD295D54}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49417"
 		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeColor\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49417\"
@@ -596,7 +594,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeColor", "Mult
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize", "MultiAttributeSize\", "{C8E13F7C-B8D0-470D-9D55-A3068D09284B}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49433"
 		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeSize\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49433\"
@@ -618,7 +616,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize", "Multi
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize_Interleaved", "MultiAttributeSize_Interleaved\", "{4BC0883F-BDED-4640-AA16-CEF84DE9E51E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49449"
 		Debug.AspNetCompiler.PhysicalPath = "MultiAttributeSize_Interleaved\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49449\"
@@ -640,7 +638,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiAttributeSize_Interlea
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiTexture", "MultiTexture\", "{7C0DEC62-4A2B-405E-8C1B-FAF45001298F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49467"
 		Debug.AspNetCompiler.PhysicalPath = "MultiTexture\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49467\"
@@ -662,7 +660,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiTexture", "MultiTextur
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad", "TexturedQuad\", "{B93754D2-F8A9-4CF1-B444-3B7296620FFE}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49484"
 		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49484\"
@@ -684,7 +682,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad", "TexturedQua
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad_Clamp_Mirror", "TexturedQuad_Clamp_Mirror\", "{120ED4BA-687D-49CB-A8B6-C7FF4DE00574}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49500"
 		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad_Clamp_Mirror\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49500\"
@@ -706,7 +704,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad_Clamp_Mirror",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TexturedQuad_Repeat", "TexturedQuad_Repeat\", "{BFCA5A10-13EE-4985-AEE2-10FB3078545F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_49520"
 		Debug.AspNetCompiler.PhysicalPath = "TexturedQuad_Repeat\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49520\"
@@ -730,7 +728,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Appendix", "Appendix", "{69
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangles", "ColoredTriangles\", "{9EEEBC4E-C445-43F4-8986-05B68469BD73}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51672"
 		Debug.AspNetCompiler.PhysicalPath = "ColoredTriangles\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51672\"
@@ -752,7 +750,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangles", "Colored
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CoordinateSystem", "CoordinateSystem\", "{B34198E0-D086-41CB-85B6-6980EB358F9F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_52682"
 		Debug.AspNetCompiler.PhysicalPath = "CoordinateSystem\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52682\"
@@ -774,7 +772,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CoordinateSystem", "Coordin
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CoordinateSystem_viewVolume", "CoordinateSystem_viewVolume\", "{9455B1B4-091B-4C89-9D05-4A2605C9AE92}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_52700"
 		Debug.AspNetCompiler.PhysicalPath = "CoordinateSystem_viewVolume\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52700\"
@@ -796,7 +794,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CoordinateSystem_viewVolume
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LoadShaderFromFiles", "LoadShaderFromFiles\", "{C44B6AEA-17BD-4AC1-8451-D9EB6BFF7AF0}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_52733"
 		Debug.AspNetCompiler.PhysicalPath = "LoadShaderFromFiles\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52733\"
@@ -820,7 +818,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extras", "Extras", "{3BAB30
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube", "ColoredCube\", "{47357570-FA7F-4ECE-A7E4-1F84CF038699}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54635"
 		Debug.AspNetCompiler.PhysicalPath = "ColoredCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54635\"
@@ -842,7 +840,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube", "ColoredCube\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube_singleColor", "ColoredCube_singleColor\", "{988E82FE-11C9-4AE3-913C-005C8A40F88F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54667"
 		Debug.AspNetCompiler.PhysicalPath = "ColoredCube_singleColor\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54667\"
@@ -864,7 +862,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube_singleColor", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DepthBuffer", "DepthBuffer\", "{8AB92357-7D15-4AAB-85D1-0F5EDFF40A83}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54696"
 		Debug.AspNetCompiler.PhysicalPath = "DepthBuffer\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54696\"
@@ -886,7 +884,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DepthBuffer", "DepthBuffer\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube", "HelloCube\", "{FFB1DFDD-BD51-4CA3-91A6-F00190DA62D9}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54725"
 		Debug.AspNetCompiler.PhysicalPath = "HelloCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54725\"
@@ -908,7 +906,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube", "HelloCube\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube_singleColor", "HelloCube_singleColor\", "{C8ACA4B4-01C2-454B-A0A0-D9E77A8F1A09}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54753"
 		Debug.AspNetCompiler.PhysicalPath = "HelloCube_singleColor\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54753\"
@@ -930,7 +928,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCube_singleColor", "He
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles", "LookAtRotatedTriangles\", "{0B8C3169-10C4-4513-9812-236DDA4413AD}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54787"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtRotatedTriangles\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54787\"
@@ -952,7 +950,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles", "L
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles_mvMatrix", "LookAtRotatedTriangles_mvMatrix\", "{4EB37521-5F0C-431D-882C-B50BE08F4D05}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54815"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtRotatedTriangles_mvMatrix\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54815\"
@@ -974,7 +972,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles_mvMa
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTriangles", "LookAtTriangles\", "{70125983-2781-4AF2-8CEA-03E0FF485AD1}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54884"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtTriangles\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54884\"
@@ -996,7 +994,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTriangles", "LookAtTr
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys", "LookAtTrianglesWithKeys\", "{862361F8-4868-4296-9717-88E86C1CCD99}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54911"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtTrianglesWithKeys\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54911\"
@@ -1018,7 +1016,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys_ViewVolume", "LookAtTrianglesWithKeys_ViewVolume\", "{C640A8FC-A401-48B3-89BF-A05502E5D2AE}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54966"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtTrianglesWithKeys_ViewVolume\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54966\"
@@ -1040,7 +1038,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtTrianglesWithKeys_Vie
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView", "OrthoView\", "{97226952-5BA1-42C1-93F0-3DB173CA818A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54997"
 		Debug.AspNetCompiler.PhysicalPath = "OrthoView\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54997\"
@@ -1062,7 +1060,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView", "OrthoView\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfSize", "OrthoView_halfSize\", "{C6CC1C71-3436-409F-A387-583DCD23D376}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55024"
 		Debug.AspNetCompiler.PhysicalPath = "OrthoView_halfSize\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55024\"
@@ -1084,7 +1082,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfSize", "Ortho
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfWidth", "OrthoView_halfWidth\", "{5E1C94CC-7E02-4AA8-AAEA-290B24FEF1A3}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55050"
 		Debug.AspNetCompiler.PhysicalPath = "OrthoView_halfWidth\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55050\"
@@ -1106,7 +1104,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OrthoView_halfWidth", "Orth
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView", "PerspectiveView\", "{50DADF9E-7107-4C31-8BFF-851F00CA31D4}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55066"
 		Debug.AspNetCompiler.PhysicalPath = "PerspectiveView\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55066\"
@@ -1128,7 +1126,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView", "Perspect
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvp", "PerspectiveView_mvp\", "{F776A4E5-3716-445E-9CE1-ABEF063F26C6}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55127"
 		Debug.AspNetCompiler.PhysicalPath = "PerspectiveView_mvp\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55127\"
@@ -1150,7 +1148,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvp", "Pers
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvpMatrix", "PerspectiveView_mvpMatrix\", "{D84C00F1-696F-4F99-8FA2-D3924E83E548}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55156"
 		Debug.AspNetCompiler.PhysicalPath = "PerspectiveView_mvpMatrix\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55156\"
@@ -1172,7 +1170,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PerspectiveView_mvpMatrix",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Zfighting", "Zfighting\", "{D2BF3E67-491A-4828-8F6C-578782FD2471}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55207"
 		Debug.AspNetCompiler.PhysicalPath = "Zfighting\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55207\"
@@ -1194,7 +1192,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Zfighting", "Zfighting\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube", "LightedCube\", "{22C94F0E-6728-4953-A76B-A3736F20059E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55459"
 		Debug.AspNetCompiler.PhysicalPath = "LightedCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55459\"
@@ -1216,7 +1214,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube", "LightedCube\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_ambient", "LightedCube_ambient\", "{DDF19B94-5008-418B-B26A-FF3CCDB813F1}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55497"
 		Debug.AspNetCompiler.PhysicalPath = "LightedCube_ambient\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55497\"
@@ -1238,7 +1236,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_ambient", "Ligh
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_animation", "LightedCube_animation\", "{46237440-73EB-496F-914C-18C61A2EB83E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55527"
 		Debug.AspNetCompiler.PhysicalPath = "LightedCube_animation\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55527\"
@@ -1260,7 +1258,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_animation", "Li
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_perFragment", "LightedCube_perFragment\", "{38FD42D6-B9FB-4E6B-B0E0-D4C29962F998}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55561"
 		Debug.AspNetCompiler.PhysicalPath = "LightedCube_perFragment\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55561\"
@@ -1282,7 +1280,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedCube_perFragment", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedTranslatedRotatedCube", "LightedTranslatedRotatedCube\", "{7C9F890B-5AA4-42D2-8279-8C60B8085003}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55595"
 		Debug.AspNetCompiler.PhysicalPath = "LightedTranslatedRotatedCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55595\"
@@ -1304,7 +1302,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LightedTranslatedRotatedCub
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube", "PointLightedCube\", "{ECA48AAA-9576-4036-A6ED-3299F62D8EB4}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55624"
 		Debug.AspNetCompiler.PhysicalPath = "PointLightedCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55624\"
@@ -1326,7 +1324,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube", "PointLi
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_animation", "PointLightedCube_animation\", "{2756E354-A12C-40B0-9BA0-82B87FC85CDE}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55649"
 		Debug.AspNetCompiler.PhysicalPath = "PointLightedCube_animation\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55649\"
@@ -1348,7 +1346,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_animation"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_perFragment", "PointLightedCube_perFragment\", "{48E5ADB0-A7EB-4C7F-96FF-37B9E1374973}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55721"
 		Debug.AspNetCompiler.PhysicalPath = "PointLightedCube_perFragment\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55721\"
@@ -1370,7 +1368,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedCube_perFragmen
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere", "PointLightedSphere\", "{8220DB84-7275-4553-AC1F-9E58EB26BFD2}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55751"
 		Debug.AspNetCompiler.PhysicalPath = "PointLightedSphere\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55751\"
@@ -1392,7 +1390,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere", "Point
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere_perFragment", "PointLightedSphere_perFragment\", "{997EEBEA-BC9F-46C8-A31E-0E6391AAD79E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55778"
 		Debug.AspNetCompiler.PhysicalPath = "PointLightedSphere_perFragment\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55778\"
@@ -1414,7 +1412,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PointLightedSphere_perFragm
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JointModel", "JointModel\", "{34FBDCBF-005B-45A6-848B-3A7F0AC6432E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62579"
 		Debug.AspNetCompiler.PhysicalPath = "JointModel\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62579\"
@@ -1436,7 +1434,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JointModel", "JointModel\",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel", "MultiJointModel\", "{7BE9A8DB-AFC6-4A6A-BCC3-818D0E3C9B09}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62609"
 		Debug.AspNetCompiler.PhysicalPath = "MultiJointModel\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62609\"
@@ -1458,7 +1456,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel", "MultiJoi
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel_segment", "MultiJointModel_segment\", "{825100F1-2A50-4EAB-95BD-1BBA2FBD08D4}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62646"
 		Debug.AspNetCompiler.PhysicalPath = "MultiJointModel_segment\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62646\"
@@ -1480,7 +1478,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MultiJointModel_segment", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3DoverWeb", "3DoverWeb\", "{FDF9944E-7F03-4B4F-9B49-9E97E166B340}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62888"
 		Debug.AspNetCompiler.PhysicalPath = "3DoverWeb\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62888\"
@@ -1502,7 +1500,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3DoverWeb", "3DoverWeb\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BlendedCube", "BlendedCube\", "{43669D7C-625B-4A9E-BD3A-1B1CED2E8614}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62919"
 		Debug.AspNetCompiler.PhysicalPath = "BlendedCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62919\"
@@ -1524,7 +1522,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BlendedCube", "BlendedCube\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog", "Fog\", "{91021B30-7362-4F1A-91CF-1A0E480507F2}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63007"
 		Debug.AspNetCompiler.PhysicalPath = "Fog\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63007\"
@@ -1546,7 +1544,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog", "Fog\", "{91021B30-73
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FramebufferObject", "FramebufferObject\", "{00E8EE8D-052D-41F7-A1BF-D5EE945FFB0F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63040"
 		Debug.AspNetCompiler.PhysicalPath = "FramebufferObject\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63040\"
@@ -1568,7 +1566,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FramebufferObject", "Frameb
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HUD", "HUD\", "{76916814-9E77-4D1C-8DFF-2377D48E3501}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63066"
 		Debug.AspNetCompiler.PhysicalPath = "HUD\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63066\"
@@ -1590,7 +1588,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HUD", "HUD\", "{76916814-9E
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtBlendedTriangles", "LookAtBlendedTriangles\", "{D420DC20-6256-41C3-8752-13A006151E9F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63155"
 		Debug.AspNetCompiler.PhysicalPath = "LookAtBlendedTriangles\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63155\"
@@ -1612,7 +1610,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtBlendedTriangles", "L
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OBJViewer", "OBJViewer\", "{6D869FCA-D688-42BB-8A6C-73EB9FAD0760}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63184"
 		Debug.AspNetCompiler.PhysicalPath = "OBJViewer\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63184\"
@@ -1634,7 +1632,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OBJViewer", "OBJViewer\", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickFace", "PickFace\", "{F1DE66B7-D7F2-4EB9-9028-0DEAFE9DAD13}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63213"
 		Debug.AspNetCompiler.PhysicalPath = "PickFace\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63213\"
@@ -1656,7 +1654,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickFace", "PickFace\", "{F
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Picking", "Picking\", "{76D2768D-8BF5-497D-9D1B-08097312A141}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63246"
 		Debug.AspNetCompiler.PhysicalPath = "Picking\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63246\"
@@ -1678,7 +1676,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Picking", "Picking\", "{76D
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickObject", "PickObject\", "{8095DA83-1763-423F-BD8C-41A311AADE67}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63279"
 		Debug.AspNetCompiler.PhysicalPath = "PickObject\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63279\"
@@ -1700,7 +1698,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PickObject", "PickObject\",
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProgramObject", "ProgramObject\", "{ED13EE6B-BD41-48A5-ADD8-17E6CE600C1A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63336"
 		Debug.AspNetCompiler.PhysicalPath = "ProgramObject\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63336\"
@@ -1722,7 +1720,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProgramObject", "ProgramObj
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotateObject", "RotateObject\", "{1FB0456F-FE9A-42D1-BF88-0B072CD5198C}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63374"
 		Debug.AspNetCompiler.PhysicalPath = "RotateObject\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63374\"
@@ -1744,7 +1742,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotateObject", "RotateObjec
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle_contextLost", "RotatingTriangle_contextLost\", "{0094DA4B-75F6-4C14-8F3A-1601F837CE38}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63428"
 		Debug.AspNetCompiler.PhysicalPath = "RotatingTriangle_contextLost\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63428\"
@@ -1766,7 +1764,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RotatingTriangle_contextLos
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RoundedPoints", "RoundedPoints\", "{5D6F9572-5B28-4D49-9C5A-A36BD40F2169}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63444"
 		Debug.AspNetCompiler.PhysicalPath = "RoundedPoints\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63444\"
@@ -1788,7 +1786,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RoundedPoints", "RoundedPoi
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow", "Shadow\", "{79D24480-DCBB-410A-8CE7-20090EE634C1}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63473"
 		Debug.AspNetCompiler.PhysicalPath = "Shadow\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63473\"
@@ -1810,7 +1808,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow", "Shadow\", "{79D24
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp", "Shadow_highp\", "{8D09A0FF-2BDF-47B0-8F14-0B43AF557FB7}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63541"
 		Debug.AspNetCompiler.PhysicalPath = "Shadow_highp\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63541\"
@@ -1832,7 +1830,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp", "Shadow_high
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp_sphere", "Shadow_highp_sphere\", "{1733FA7F-3760-4121-99D6-DD14067CB50F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63568"
 		Debug.AspNetCompiler.PhysicalPath = "Shadow_highp_sphere\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63568\"
@@ -1854,7 +1852,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shadow_highp_sphere", "Shad
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog_w", "Fog_w\", "{184B5E8A-5EB1-49B5-8594-012B74A5147D}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_63976"
 		Debug.AspNetCompiler.PhysicalPath = "Fog_w\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63976\"
@@ -1876,7 +1874,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fog_w", "Fog_w\", "{184B5E8
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Particle", "Particle\", "{46D6B821-8F79-4969-B6B5-52ECA428774E}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64767"
 		Debug.AspNetCompiler.PhysicalPath = "Particle\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64767\"
@@ -1898,7 +1896,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Particle", "Particle\", "{4
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Printf", "Printf\", "{1D05F238-1B45-498F-A5D0-F39AB8086394}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64802"
 		Debug.AspNetCompiler.PhysicalPath = "Printf\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64802\"
@@ -1920,7 +1918,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Printf", "Printf\", "{1D05F
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SpecularCube", "SpecularCube\", "{D7B32E8B-8132-423E-ABAA-9C621BDB6818}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64830"
 		Debug.AspNetCompiler.PhysicalPath = "SpecularCube\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64830\"
@@ -1942,7 +1940,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SpecularCube", "SpecularCub
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TextTexture", "TextTexture\", "{3D4155CC-DD63-413E-B56B-B254B7E6913A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64859"
 		Debug.AspNetCompiler.PhysicalPath = "TextTexture\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64859\"
@@ -1964,7 +1962,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TextTexture", "TextTexture\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ThreeDUI", "ThreeDUI\", "{478D0CD5-2FB7-42C2-9489-F3665FE7A625}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64885"
 		Debug.AspNetCompiler.PhysicalPath = "ThreeDUI\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64885\"
@@ -1986,7 +1984,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ThreeDUI", "ThreeDUI\", "{4
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Wave", "Wave\", "{81C0B8B8-279B-45B2-85F2-5236594F582F}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64915"
 		Debug.AspNetCompiler.PhysicalPath = "Wave\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64915\"
@@ -2008,7 +2006,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Wave", "Wave\", "{81C0B8B8-
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WorldCoordinate", "WorldCoordinate\", "{8797D1DF-927F-4C97-B270-1154111F77FC}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_64944"
 		Debug.AspNetCompiler.PhysicalPath = "WorldCoordinate\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64944\"
